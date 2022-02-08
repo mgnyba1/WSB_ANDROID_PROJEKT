@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Główna"/>
+    <item
+        android:id="@+id/bmi"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_calculate_24"
+        android:title="BMI"/>
+    <item
+        android:id="@+id/account"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_account_circle_24"
+        android:title="Konto"/>
+
+</menu>
